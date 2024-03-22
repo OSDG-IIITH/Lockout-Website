@@ -1,2 +1,3 @@
 # Lockout-Website
-a team for current devs and maintainers of the project
+A website in collaboration with programming club meant for hosting Lockout Tournament and having 
+a good WebUI. Project can be extended to informal 1v1 contests too.
